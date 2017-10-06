@@ -1,5 +1,5 @@
 package デザインパターン;
 
-public class Test {
+public class City {
 
 }
