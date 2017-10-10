@@ -1,4 +1,4 @@
-package デザインパターン;
+package iteratorPattern;
 
 public class City {
 	private String name;

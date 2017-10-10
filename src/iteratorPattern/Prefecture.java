@@ -1,4 +1,4 @@
-package デザインパターン;
+package iteratorPattern;
 
 public class Prefecture implements Aggregate{
 	private String name;

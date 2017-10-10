@@ -1,4 +1,4 @@
-package デザインパターン;
+package iteratorPattern;
 
 public interface Iterator {
 	public boolean hasNext();

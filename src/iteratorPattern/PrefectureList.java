@@ -1,4 +1,4 @@
-package デザインパターン;
+package iteratorPattern;
 
 public class PrefectureList implements Aggregate{
 	private Prefecture[] prefectures = new Prefecture[47];

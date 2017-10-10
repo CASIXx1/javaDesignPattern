@@ -1,4 +1,4 @@
-package デザインパターン;
+package iteratorPattern;
 
 public class CityIterator implements Iterator{
 	private Prefecture cityList;
