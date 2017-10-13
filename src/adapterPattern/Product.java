@@ -4,7 +4,6 @@ public abstract class Product {
 	private String name;
 	private int price;
 
-
 	public String getName() {
 		return name;
 	}
@@ -16,7 +15,6 @@ public abstract class Product {
 	public void setName(String name) {
 		this.name = name;
 	}
-
 
 	public void setPrice(int price) {
 		this.price = price;
