@@ -1,6 +1,6 @@
 package iteratorPattern;
 
-public class PrefectureIterator implements Iterator {
+public class PrefectureIterator implements SortIterator {
 	private PrefectureList prefectureList;
 	private int index;
 	
